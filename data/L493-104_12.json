@@ -1,0 +1,14 @@
+{
+    "lnr": "L493-104 12",
+    "uid": "04109 00_49 19",
+    "mhd": "04/2013",
+    "counting": "13.01.2013",
+    "bears": {
+        "orange": 25,
+        "pineapple": 24,
+        "raspberry": 16,
+        "strawberry": 23,
+        "apple": 20,
+        "lemon": 23
+    }
+}
