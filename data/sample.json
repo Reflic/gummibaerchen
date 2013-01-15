@@ -1,0 +1,14 @@
+{
+    "lnr": "", // L-Nummer, siehe Dokumentation
+    "uid": "", // Einzigartige ID, siehe Dokumentation
+    "mhd": "", // Mindesthaltbarkeitsdatum
+    "counting": "", // Datum der Zählung (Format: DD.MM.YY)
+    "bears": { // Anzahl der Bären in der jeweiligen Farbe
+        "orange": 0,
+        "pineapple": 0,
+        "raspberry": 0,
+        "strawberry": 0,
+        "apple": 0,
+        "lemon": 0
+    }
+}
